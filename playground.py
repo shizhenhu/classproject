@@ -18,3 +18,4 @@ olympic_medal_counts = {'contries': Series(['Russian Fed.', 'Norway', 'Canada', 
 olympic_medal_counts_df = DataFrame(olympic_medal_counts)
 print(olympic_medal_counts_df)
 
+input("\n\nPress the enter key to exit.")
